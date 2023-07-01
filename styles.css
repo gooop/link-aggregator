@@ -1,3 +1,44 @@
 * {
     background-color: #1f2231;
+    border: dotted green 1px;
 }
+
+@font-face {
+    font-family: "Ooky";
+    src: url("./assets/Ooky-OAwo.ttf") format("truetype")
+}
+
+body {
+    font-family: "Ooky";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+h1 {
+    color: #cfcbb1;
+    font-size: 60px;
+}
+
+button, button > * {
+    background-color: #6e7a94;
+}
+
+button {
+    font-family: "Ooky";
+    font-size: 20px;
+    color: #6baa75;
+    border-radius: 10px;
+}
+
+.linkImage {
+    max-height: 50px;
+    max-width: 50px;
+}
+
