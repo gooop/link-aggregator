@@ -27,6 +27,14 @@ h1 {
     color: #cfcbb1;
     font-size: 60px;
     -webkit-text-stroke: 3px black;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #cfcbb1;
+    font-size: 35px;
+    -webkit-text-stroke: 2px black;
+    margin: 0 auto; 
 }
 
 button, button > * {
