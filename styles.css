@@ -1,6 +1,6 @@
 * {
     background-color: #1f2231;
-    /* border: dotted green 1px; */
+    border: dotted green 1px;
 }
 
 @font-face {
@@ -27,14 +27,14 @@ h1 {
     color: #cfcbb1;
     font-size: 60px;
     -webkit-text-stroke: 3px black;
-    margin: 0 auto;
+    margin: 0;
 }
 
 h2 {
     color: #cfcbb1;
-    font-size: 35px;
+    font-size: 37px;
     -webkit-text-stroke: 2px black;
-    margin: 0 auto; 
+    margin: 0 10px 10px 10px;
 }
 
 button, button > * {
