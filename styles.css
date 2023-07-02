@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url("./assets/pattern.png") repeat-x;
+    background: url("./assets/pattern.png") repeat;
     background-size: cover;
     background-attachment: scroll;
 }
