@@ -15,6 +15,7 @@ body {
     align-items: center;
     background: url("./assets/pattern.png") repeat-x;
     background-size: cover;
+    background-attachment: scroll;
 }
 
 ul {
