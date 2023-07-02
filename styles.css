@@ -14,6 +14,7 @@ html {
     background: url("./assets/pattern.png") repeat;
     background-size: 100vh;
     background-attachment: scroll;
+    background-color: #1f2231;
 }
 
 body {
