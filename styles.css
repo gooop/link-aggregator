@@ -8,14 +8,17 @@
     src: url("./assets/ARCO.ttf") format("truetype")
 }
 
+html {
+    background: url("./assets/pattern.png") repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
 body {
     font-family: "ARCO";
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url("./assets/pattern.png") repeat;
-    background-size: cover;
-    background-attachment: scroll;
 }
 
 ul {
