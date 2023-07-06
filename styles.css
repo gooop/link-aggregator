@@ -70,6 +70,7 @@ button {
 .linkImage {
     background-color: #2d3032;
     max-width: 38px;
+    max-height: 45px;
 }
 
 .linkImageBorder, .linkButton:hover > .linkImageBorder {
